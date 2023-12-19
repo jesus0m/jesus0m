@@ -9,6 +9,7 @@ I'm a Programmer Analyst with a passion for backend and frontend development, ba
 - 🟢 Node.js
 - 🗄️ SQL
 - ⚛️ ReactJS
+- 🐍 Python
 
 ## 💼 Current Role
 - Software Engineer at Plexus Tech
