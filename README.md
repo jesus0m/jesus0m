@@ -3,8 +3,8 @@
 I'm a Programmer Analyst with a passion for backend and frontend development, based in Badajoz, Spain. Skilled in Java 8, Spring, Docker, Node.js, SQL databases, ReactJS and Python.
 
 ## 🛠️ Skills and Expertise
-- Java 8+
-- Spring Framework
+- ☕️ Java 8+
+- 🍃 Spring Framework
 - 🐳 Docker
 - 🟢 Node.js
 - 🗄️ SQL
