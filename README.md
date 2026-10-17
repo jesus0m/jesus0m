@@ -402,11 +402,15 @@ public class DeveloperMindset {
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 My GitHub Contributions
 
 <div align="center">
 
-![GitHub Activity Graph](https://raw.githubusercontent.com/jesus0m/jesus0m/output/activity-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesus0m/jesus0m/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jesus0m/jesus0m/output/github-snake.svg" />
+  <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/jesus0m/jesus0m/output/github-snake.svg" />
+</picture>
 
 </div>
 
