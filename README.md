@@ -12,7 +12,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jesus0m&style=for-the-badge&color=2563eb)
+![Profile Views](https://views-counter.vercel.app/badge?pageId=jesus0m&leftColor=374151&rightColor=2563eb)
 ![Location](https://img.shields.io/badge/Location-Badajoz%2C%20Spain-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)
 
