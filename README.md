@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-olivathedev.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://olivathedev.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jesus0m-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesus0m)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesus241294@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@olivathedev.com)
 
 <br/>
 
@@ -406,7 +406,7 @@ public class DeveloperMindset {
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jesus0m&theme=tokyo-night&hide_border=true&area=true)](https://github.com/jesus0m)
+![GitHub Activity Graph](https://raw.githubusercontent.com/jesus0m/jesus0m/output/activity-graph.svg)
 
 </div>
 
@@ -448,7 +448,7 @@ I'm always interested in discussing software engineering, architecture, open-sou
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesus0m)
 
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesus241294@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@olivathedev.com)
 
 <br/>
 
